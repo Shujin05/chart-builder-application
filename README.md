@@ -30,7 +30,7 @@ This project is a **Chart Builder Application** designed to dynamically visualiz
 
 ```bash
 git clone https://github.com/Shujin05/topo-take-home-assignment.git
-cd topo-take-home-assignment
+cd chart-builder-appplication
 ```
 
 2. **Install dependencies** 
