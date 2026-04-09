@@ -1,9 +1,9 @@
-# Data Visaualisation Maker
+Chart Builder Application
 ---
 ## Overview
 <img width="1683" height="801" alt="image" src="https://github.com/user-attachments/assets/fb8b8291-6253-413d-b8e7-512b29fd29d1" />
 
-This project is a **Chart Builder application** designed to dynamically visualize data using various chart types. It allows users to:
+This project is a **Chart Builder Application** designed to dynamically visualize data using various chart types. It allows users to:
 - Select chart type (`bar`, `line`, `pie`, `multiline`, `boxplot`).  
 - Choose aggregation type (`count`, `sum`, `average`).  
 - Select columns for X, Y, Z axes.  
